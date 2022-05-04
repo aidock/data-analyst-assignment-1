@@ -14,16 +14,16 @@ if __name__ == '__main__':
     1.
     1st part of the assignment
     """
-    # enter your code here - use Placeholder class - you can change the name
+    # enter your code here - use Placeholder class - you can change the name, or add more class
 
     """
     2.
     2nd part of the assignment
     """
-    # enter your code here - use Placeholder class - you can change the name
+    # enter your code here - use Placeholder class - you can change the name, or add more class
 
     """
     3.
     3rd part of the assignment
     """
-    # etner your code here - use Placeholder class - you can change the name
+    # etner your code here - use Placeholder class - you can change the name, or add more class
